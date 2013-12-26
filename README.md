@@ -6,18 +6,21 @@ Python recipes for cooking up electronics with the Raspberry Pi GPIO pins
 Building a simple (and not necessarily the best) Python script for cross fading 
 a RGB LED (common anode).
 
-Hardware:
-1 Raspberry Pi A/B
-1 RGB LED
-1 Resistor (270k Ohms)
-Breadboard Wires/GPIO Pin females
-Wires
-Circuit board (optional)
-Soldering Kit (optional)
-Table Tennis Ball (optional hack)
+<strong>Hardware:</strong>
+<ul>
+<li>1 Raspberry Pi A/B
+<li>1 RGB LED
+<li>1 Resistor (270k Ohms)
+<li>Breadboard Wires/GPIO Pin females
+<li>Wires
+<li>Circuit board (optional)
+<li>Soldering Kit (optional)
+<li>Table Tennis Ball (optional hack)
+</ul>
 
-Software:
-Raspbian Dist
-Python
+
+<strong>Software:</strong>
+<br/>Raspbian Dist
+<br/>Python
 
 
